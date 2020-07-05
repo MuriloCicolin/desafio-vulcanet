@@ -21,8 +21,6 @@ import {
 import Vector from '../../assets/Vector.png';
 import Check from '../../assets/check.svg';
 
-import formatValue from '../../utils/formatValue';
-
 import Header from '../../components/Header';
 
 import api from '../../services/api';
